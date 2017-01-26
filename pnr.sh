@@ -14,6 +14,7 @@ LD_LIBRARY_PATH=/system/lib64
 
 curl -s "http://www.railyatri.in/pnr-status/$1" > /sdcard/pnrcheck
 TRAINNAME=`cat /sdcard/pnrcheck | grep -A1 '"/time-table/' | sed 's/<.*>//g' | egrep -o '[a-z].*|[0-9].*'`
+if [ "`echo $TRAINNAME |grep "." |  wc -c `" -gt 3 ]; then
 FROM=`cat /sdcard/pnrcheck | grep -A3 FROM: | sed 's/<.*>//g' | egrep -io '[0-9].*|[a-z].*' | sed 's/ |.*//g'`
 TO=`cat /sdcard/pnrcheck | grep -A3 TO: | sed 's/<.*>//g' | egrep -io '[0-9].*|[a-z].*' | sed 's/ |.*//g'`
 BOARD=`cat /sdcard/pnrcheck | grep -A3 BOARD: | sed 's/<.*>//g' | egrep -io '[0-9].*|[a-z].*'`
@@ -37,6 +38,27 @@ echo "\t${BYellow}   Current Status:\t ${BGreen}$CSTATUS${none}"
 echo "\t${BYellow}   Booking Status:\t ${BGreen}$BSTATUS${none}"
 echo "${BGreen}         ------------------------------${none}"
 LD_LIBRARY_PATH=/data/data/com.termux/files/usr/lib
-else 
+else
+curl -s  "http://indiarailinfo.com/pnr/predform?p=$1" > /sdcard/pnrcheck
+FROM=`cat /sdcard/pnrcheck  | sed 's/<input type.*//g' | sed 's/^.*<h2>//g' | tr -s '>' '\n' | sed -e 's/<.*//g' | sed '/^$/d' | grep "From.*"  | cut -d: -f2`
+TO=`cat /sdcard/pnrcheck | sed 's/<input type.*//g' | sed 's/^.*<h2>//g' | tr -s '>' '\n' | sed -e 's/<.*//g' | sed '/^$/d' | grep "^To:.*"  | cut -d: -f2`
+BOARD=`cat /sdcard/pnrcheck | sed 's/<input type.*//g' | sed 's/^.*<h2>//g' | tr -s '>' '\n' | sed -e 's/<.*//g' | sed '/^$/d' | grep "^Date of Journey:.*"  | cut -d: -f2-`
+CLASS=`cat /sdcard/pnrcheck |sed 's/<input type.*//g' | sed 's/^.*<h2>//g' | tr -s '>' '\n' | sed -e 's/<.*//g' | sed '/^$/d' | grep "^Class:.*"  | cut -d: -f2`
+CSTATUS=`cat /sdcard/pnrcheck | sed 's/<input type.*//g' | sed 's/^.*<h2>//g' | tr -s '>' '\n' | sed -e 's/<.*//g' | sed '/^$/d' | grep -A1 "Passenger"  | sed '2!d'`
+BSTATUS=`cat /sdcard/pnrcheck | sed 's/<input type.*//g' | sed 's/^.*<h2>//g' | tr -s '>' '\n' | sed -e 's/<.*//g' | sed '/^$/d' | grep "Booking Status.*" | cut -d':' -f2 | sed -e 's/)//g'`
+CHART=`cat /sdcard/pnrcheck |  sed 's/<input type.*//g' | sed 's/^.*<h2>//g' | tr -s '>' '\n' | sed -e 's/<.*//g' | sed '/^$/d' | grep "Chart.*" | cut -d' ' -f2-`
+echo "${BGreen}       -----------------------------------${none}"
+echo "\t${BYellow}Date of Journey:${BPurple}$BOARD${none}  "
+echo "${BGreen}       -----------------------------------${none}"
+echo "${BYellow}Class:${BPurple}$CLASS\n${BYellow}Chart: ${BPurple}$CHART${none}"
+echo ""
+echo "${BYellow}From Station:${BPurple}$FROM ${BYellow}To Station:${BPurple}$TO"
+echo "${BGreen}         ------------------------------"
+echo "\t${BYellow}   Current Status:\t ${BGreen}$CSTATUS${none}"
+echo "\t${BYellow}   Booking Status:\t${BGreen}$BSTATUS${none}"
+echo "${BGreen}         ------------------------------${none}"
+LD_LIBRARY_PATH=/data/data/com.termux/files/usr/lib
+fi
+else
 echo "${BRed}\tPNR Number Required${none}"
 fi
