@@ -1,3 +1,4 @@
+#Copyright By kumar Raja
 BBlack="\033[1;30m" # Black
 BRed="\033[1;31m" # Red
 BGreen="\033[1;32m"
