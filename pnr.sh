@@ -11,7 +11,7 @@ none="\033[0m"
 bold="\033[1m"
 red="\033[0;31m"
 if [ $1 ] ; then
-LD_LIBRARY_PATH=/system/lib64
+#LD_LIBRARY_PATH=/system/lib64
 
 curl -s "http://www.railyatri.in/pnr-status/$1" > /sdcard/pnrcheck
 TRAINNAME=`cat /sdcard/pnrcheck | grep -A1 '"/time-table/' | sed 's/<.*>//g' | egrep -o '[a-z].*|[0-9].*'`
@@ -38,7 +38,7 @@ echo "${BGreen}         ------------------------------"
 echo "\t${BYellow}   Current Status:\t ${BGreen}$CSTATUS${none}"
 echo "\t${BYellow}   Booking Status:\t ${BGreen}$BSTATUS${none}"
 echo "${BGreen}         ------------------------------${none}"
-LD_LIBRARY_PATH=/data/data/com.termux/files/usr/lib
+#LD_LIBRARY_PATH=/data/data/com.termux/files/usr/lib
 else
 curl -s  "http://indiarailinfo.com/pnr/predform?p=$1" > /sdcard/pnrcheck
 FROM=`cat /sdcard/pnrcheck  | sed 's/<input type.*//g' | sed 's/^.*<h2>//g' | tr -s '>' '\n' | sed -e 's/<.*//g' | sed '/^$/d' | grep "From.*"  | cut -d: -f2`
@@ -58,7 +58,7 @@ echo "${BGreen}         ------------------------------"
 echo "\t${BYellow}   Current Status:\t ${BGreen}$CSTATUS${none}"
 echo "\t${BYellow}   Booking Status:\t${BGreen}$BSTATUS${none}"
 echo "${BGreen}         ------------------------------${none}"
-LD_LIBRARY_PATH=/data/data/com.termux/files/usr/lib
+#LD_LIBRARY_PATH=/data/data/com.termux/files/usr/lib
 fi
 else
 echo "${BRed}\tPNR Number Required${none}"
