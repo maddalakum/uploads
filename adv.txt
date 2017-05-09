@@ -1,0 +1,701 @@
+3671|NO Forsikringsselskap|Forbrukerhjelpen
+18659|NO GurkemeieK2|PharmaNova
+18658|NO Verisure|Verisure
+18826|NO ChiliforteKostttilskudd|Apotech
+3626|NO BankNorwegian|Bank Norwegian
+3645|NO Aconto|Aconto.no AS
+19088|NO HobbyKlubben|Hobby Klubben
+19262|NO ElleAbonnent|Elle - Egmont Publishing
+19261|NO Telefinans|Telefinans
+19597|NO Bestselgerklubben|Bestselger Klubben
+19611|NO Betakarotene|Apotech
+19612|NO AXOLan|Axo Finans AB
+19626|NO ThornLavrentelan|THORN
+19734|NO LeasyLavrentelan|L'easy
+19791|NO Strømleverandør|Leads A/S
+19792|NO IFORMToppOgTightsFraKariTraa|I FORM
+19733|NO Homenet (Paused)|Semona
+19733|NO K2 Vitamin|K2 Vitamin
+19954|NO Rom123Plus4Utgaver |Rom123 / Egmont Publishing
+18979|NO CentumFinans|Centum Finans AS 2015
+19980|NO Boligalarm|Boligalarm
+3628|NO SnoreStopper|Snore Stopper
+20123|NO BonyttGlassFra|Egmont Publishing
+20131|NO DetNyeSminkekoster|Egmont Publishing
+20195|NO BarnasEgenBokverden|Tanum Bokklubber
+20197|NO XinNOLanKredittkort|Leads AS
+20196|NO Telinet|Telinet Energi
+20251|NO BoBedresJulebok|Bonnier Publications International AS
+20263|NO AdamsMatkasse|Adams Matkasse AS
+20283|NO Online24|DNB Finans
+20296|NO DonaldDuck|Egmont Media
+20288|NO Unicef|UNICEF
+20320|NO Klikklan|THORN Norge Finans AS
+20196|NO Telinet|Telinet Energi AS
+20443|NO FortunaProvGrati|Fortuna Europe Ltd
+20444|NO NationalGeographic|Bonnier Publications International AS
+20450|NO BarnasThorbjornEgner|Tanum Bokklubber
+20459|NO RealFinansForbrukslan|Real Finans AS
+20477|NO HafslundCPO|Hafslund Strøm AS
+20576|NO BestselgerklubbenGavekort|Cappelen Damm AS
+20588|NO CompareKing|CompareKing.no AS
+20606|NO HjemmetKjokkenredskaper|Egmont Publishing
+20282|NO AcontoKreditt|Aconto.no AS
+3645|NO Aconto|Aconto.no AS
+20760|NO TestoMax|Norvital AS
+20725|NO MatchCom|MatchCom
+20020|NO CoffeeForte|Vitaliv AS
+19216|NO Forbrukerhjelpen|Leads AS - org
+20367|NO KiloVekk|Biovita AS
+20825|NO DetNyeLulus|Egmont Publishing
+21020|NO SectorAlarmBoligalarm|Sector Alarm AS
+20990|NO VerisureAlarmhjelpen|Alarmhjelpen-Verisure Holding AB
+21053|NO Finanshjelpen|Leads AS
+21050|NO LeasyMinilan|Krededittgiver er Thorn Norge Finans AS
+21116|NO DetNyeSminkekoster|Egmont Publishing
+21122|NO AktivTrening|Bonnier Publications International AS
+21208|NO CFKForte|Norvital AS
+21236|NO LectinetNyhetNediVekt|Lectinect AS
+21424|NO SmokeSmart|Pro-shopper
+21428|NO AltOmFiske|Egmont Publishing
+21430|NO TelinetGratisStrom|Telinet Energi AS
+21471|NO AcrovitalGinseng|Acrovital(tm) /Enco Notodden AS
+21473|NO Babyglede|Tanum Bokklubber
+21541|NO Minilan|THORN Norge Finans AS
+21540|NO EFIIntuition| EFI AS
+21611|NO NordaxForbrukslan|Nordax Bank AB
+21613|NO AftenpostenKomplett|Schibsted Media Group
+21729|NO IkanoForbrukslån|Ikano Bank AB
+21719|NO Kredittfinner |Draivi Media Oy
+|NO adSalsa|Aldaniti
+22136|NO Finansiering24Refinansier|Leads AS
+22184|NO Krimklubben3Boker|Tanum Bokklubber
+22407|NO KrimklubbenFaKnivsett|Tanum Bokklubber
+22517|NO ArcadiaFinans|Arcadia Finans-Draivi Media Oy
+22838|NO FinanshjelpenPluss|Leads AS
+22839|NO Finansavisen|Finansavisen.no
+22946|NO Bokklubben|De norske Bokklubbene
+2291|NO TelefinansFolkeLanet|Folkelånet Telefinans as
+23097|NO Zmarta|Freedom Rahoitus Oy
+23104|NO LeasyMinilan60DayInterestFree|Krededittgiver er Thorn Norge Finans AS
+23131|NO xSmokeGiftSale|MailTrading UG
+23168|NO WebfinanceKomplettBank|KomplettBank ASA
+23231|NO BokklubbenNyeBoker |De Norske Bokklubbene
+23254|NO WebfinanceFobrukslan|LeadsPartner AS
+23284|NO Finansiering24|Leads AS
+22266|NO KlikklanLan4000|Thorn Norway AS
+23386|NO Pengi|Firstborn NUF
+23387|NO CLATurboHardangerBestik|Herbal Vital AS
+23417|NO PhasocalWeightLoss|Herbal Vital AS
+23426|NO VitaePro|VitaeLab AS
+23446|NO ThornPrivatFinans|Thorn Norge AS
+23547|NO ViMenn|Egmont Publishing
+|NO FortunaEsigarett|Fortuna
+|NO Firkloveren|Firkløveren
+|NO FamilienNorway |Familien
+23519|NO Hjemmet|Hjemmet
+|NO Glucomax|Vitaliv AS
+23634|NO AgvaFåEnMånedsGratisStrøm|Agva Kraft AS
+23637|NO Agva|Agva Kraft AS
+|NO ShellMastercard|Ikano Bank AB
+|NO ShaiBox|Zentio AS
+|NO HelsetjenesterSynskirurgi|Service Market AS
+|NO HelsetjenesterKosmetiskKirurgi|Service Market AS
+|NO TelefinansFolkeLanet|Folkelånet Telefinans as
+|NO NettLan24 Revshare|NettLån24.no
+|NO VitaePro|VitaeLab AS
+|NO YaBankForbrukslan|Om yA Bank
+|NO Pengi.noRefinansiering|Pengi.no
+23875|NO TjenestetorgetBoligalarm|Tjenestetorget er en del av Budstikka Media
+23876|NO TjenestetorgetEiendomsmeglere|Tjenestetorget er en del av Budstikka Media
+23877|NO TjenestetorgeVarmepumper|Tjenestetorget er en del av Budstikka Media
+23934|NO ViOver60|Egmont Publishing
+23992|NO yA Bank Forbrukslån|yA Bank
+23991|NO AgvaKraft|Agva Kraft AS
+23989|NO VendelaSilverDay|Helena Cosmetics
+24053|NO NordicFinance|Nordic Finance
+24061|NO PengiRefinansiering|Pengi.no
+24029|NO Axo|Om Axo Finans
+19612|NO AXOLoan|Om Axo Finans
+21424|NO SmokeSmart|Pro-shopper
+24067|NO TjenestetorgetForsikring|Tjenestetorget AS
+23387|NO CLATurboHardangerBestikk|CLA Turbo
+20443|NO FortunaProvGratis|FortunaCig
+24068|NO CurcuminK2|PharmaNova
+22534|NO IkanoBankVisa|Ikano Bank AB (publ)
+20196|NO TelinetEnergi|Telinet Energi AS
+22534|NO IkanoBankVisa|Ikano Bank AB
+24215|NO Fokuslan|Thorn Norge AS
+24215|NO Fokuslan|Thorn Norge AS
+24247|NO CPC GMB NetEntFootball|Aspire Global
+24246|NO CPC GMB StarburstKaramba|Aspire Global
+24245|NO CPC StarburstHopa|Aspire Global
+24274|NO Oslokraft|OSLO KRAFT AS
+24273|NO AgvaGratisStromISommerJune|Agva Kraft AS
+24263|NO TelinetEnergiFotballstrom|TELINET ENERGI AS
+23680|NO ShellMastercard|Ikano Bank AB
+24301|NO ArosFinans|Folkelånet Telefinans AS
+24319|NO Lendo|FINN.no, en del av Schibsted-konsernet
+24354|NO Telinet1mndGratisStrom|Telinet Energi AS
+22407|NO KrimklubbenFa3Boker+5KinverFiskars|Tanum Bokklubber
+24366|NO RememberKreditKort|EnterCard Norge AS
+24365|NO NutriproSelolje|Bio Pharma Norway AS
+3645|NO AcontoForbrukslan|ACONTO.no AS
+24430|NO ZenBankingForbrukslan|Prefer Finance AS
+24431|NO GronnKaffe|Regimen Ltd. EUROPE
+24454|NO LoanRevshare|Firstborn IVS
+24455|NO LoanRevshare|Firstborn IVS
+24486|NO Kreditt365|Leads Nordic AS
+24475|NO BotPlus365|BOA Elite
+24495|NO EzogreenReisegavekort |Biovita AS
+24496|NO PerfectTouchBarberhovel|Biovita AS
+24510|NO IceMobil|ICE Norge
+24636|NO LendingHero|Libertech AS
+24831|NO LeasyMinilanInterestFree|Krededittgiver er Thorn Norge Finans AS
+24752|NO EliteSingles|Affinitas GmbH
+24874|NO ArosKredittkort|Respons Finans
+24895|NO SovGodt|Biovita AS
+24914|NO Fortum|Fortum Markets AS
+24965|NO Bredband|Nettbureau AS
+24985|NO MyCredit|Favor Finance AS
+25023|NO LendingHero|Liber Finance AS
+25025|NO PengerBoliglan|Finn.no AS
+25026|NO PengerForsikringspakke|Finn.no AS
+25068|NO BankNord|Vidi AS
+25068|NO PolarLan|Respons Finans
+25021|NO EminentorForbrukslan|Eminentor AS Org
+25091|NO Verisure |Securitas Direct
+25110|NO Webfinancenet |Webfinance
+25131|NO NorwegianMethod|Hedgestone Group
+25159|NO Webfinancenet|Webfinance
+25160|NO Immunoplus|VitaeLab AS
+25132|NO PlusFinance|Centeo ApS
+25227|NO RememberForbrukslan|EnterCard Norway AS
+25203|NO Instabank|Instabank ASA
+25277|NO OnlineBrokers|Online24 AS
+25263/25274|NO Nordiclan|THORN Norge Finans AS
+25407|NO xsmoke|xsmoke
+25398|NO Phaseolus|Herbal Vital AS
+25414|NO EFIQuattroTitanium|EFI AS
+25416|NO Provexin|Norvital AS
+25602|NO ArosFinansForbrukslan|Respons Finans
+24874|NO ArosFinansKredittkort|Respons Finans
+25631|NO YggdrasilFinans|AXO Finans AB
+25635|NO TjenestetorgetForbrukslanOgKredittkortgjeld|Tjenestetorget er en del av Budstikka Media
+25025|NO PengerBoliglan|Finn.no AS
+25645|NO Gjeldsmegler1|GjeldsMegler1 AS
+25666|NO EzoGreen|Biovita AS
+25701|NO LoanButler|Firstborn IVS
+25702|NO yABankKredittkort|yA Bank
+25716|NO ViMennHodelykt|Egmont Publishing AS
+24525|NO AcontoForbrukslan|Aconto.no AS
+25705|NO AXO|Axo Finans AB
+25774|NO Krimklubben5KvalitetskniverFiskars|Tanum Bokklubber og Cappelen Damm
+25797|NO CompareKing|Liber Finance AS
+25812|NO EnkeltLan|NetAd AS
+25926|NO CreditsVisa|BB Finans
+25933|NO AXOLanUtenSikkerhet|Axo Finans AS
+25929|NO Finanshjelp24|WebFinance
+26065|NO AROSFinansFobrusklan|Respons Finans
+26060|NO ShellMastercardDrivingBonus|Ikano Bank
+18656|SE KreditkortBankNorwegian|Bank Norwegian
+18713|SE MyLoanVIPRevshare|MyLoan
+18452|SE BankNorwegian November|Bank Norwegian
+18839|SE LanForAlla|Freedom Finance
+18958|SE Brun365|Brun365
+18863|SE Kicklan|Klicklån
+18657|SE Webfinance|WebFinance
+18655|SE LeasyLanaUppTil50000|L'easy
+3672|SE CompricerBilforsakring|Compricer
+3764|SE FreedomFinance|Freedom Finance
+18840|SE Lykosmoke|
+18455|SE Finans24KreditKort|Finans24
+18954|SE Androxen|Androxen
+18955|SE Kondomvarhuset|Kondom Varuhuset
+18697|SE Snorestopper|
+19152|SE Moneypal|MoneyGo
+18687|SE EFIRakhyvlar|EFI A/S
+19324|SE YouGov|YouGov Sweden
+19325|IFormPlattMageSet|I FORM
+19326|EllosPrivatlan|Ellos AB
+18453|SE ThornLanMedLagRanta |Thorn.se
+19405|SE Altavista|Altavista
+19533|SE IFormToppOchTights|I FORM
+19534|SE SeleneFinans|Selene Finans Sverige AB
+19555|SE EconomicAccountingSoftware|e-conomic Sverige
+19678|SE eDarling Euroads|eDarling
+19768|SE GreenCoffee|BIO365.se
+19767|SE Finans24Lån|Leads AS
+19793|SE FairBanker|Fair Banker
+19870|SE CaliberBingoRegular|GTECH (Gibraltar) Ltd
+19675|SE Match.com|Match.com
+20048|SE Halebop|Halebop-TeliaSonera Sverige AB
+20029|SE EuroLoan|Euroloan (ELCF Sweden AB)
+20148|SE ScandtestCPO|Dignitas
+20216|SE AXOFinance|Axo Finans AB
+20205|SE Onea|4Finance AB
+20333|SE LeasyLan|L'EASY via Thorn Svenska AB
+20048|SE HalebopPrivat|Halebop, TeliaSonera Sverige AB
+20549|SE TrustBuddy|TrustBuddy AB
+20638|SE BankioLan|Bankio är en del av Freedom Finance
+20574|SE VitaePro|VitaeLab AB
+20560|SE KvikautomatenQuickLoan|Ferratum Denmark
+18972|SE MeddelandelanSverige|C Finance AB
+20334|SE EverydayPlusKredit|OPR-Finance AB
+21167|SE ArcadiaFinans|Arcadia Finans-Draivi Media Oy
+21258|SE GMB LysandeBingo|Lysande Bingo
+21229|SE CPM GMB LysandeBingo26thMarch201521258|Lysande Bingo
+21082|SE Zmarta|Freedom Rahoitus Oy
+22337|SE BForex|TradeLG
+22568|SE ArtroFlex|
+22665|SE NatFinans|Draivi Media Oy
+22437|SE Lendo|Lendo AB. Org.
+|SE BlueStep|BlueStep Finans AB
+23074|SE Lendify|Lendify AB
+23123|SE LeasyMinilan|Thorn Svenska AB med det registrerade varumärket L’EASY.
+23217|SE SmokeSmart|Pro-shopper
+23280|SE VitaFinans|VitaFinans
+23352|SE WebfinanceSamlaDinaSmalan|Leads AS
+23331|SE WebfinanceKonsumtionslan|Leads AS
+23345|SE Pengino|Freedom Finance Kreditservice AB
+23473|SE MonettiRevshare|AS Norge Filial Sverige
+23482|SE SkonaHem6Nr4Koppar|Bonnier Tidskrifter
+23535|SE ThornPrivatFinans|Thorn Svenska AB
+23563|SE Bluestep|BlueStep Finans AB
+|SE Insplanet|Insplanet
+23644|SE Maklaragenten|Mäklaragenten.se (Burre Group AB)
+23565|SE Hallonketoner|Regimen Oü
+|SE Provexin|Norvital AB
+|SE Pengino.seRefinansiering|Pengino.se
+24116|SE ImedeenVackertHarNaglar|Vesterålens Naturprodukter AB
+24158|SE AXOSamlaLan|Axo Finans AB
+24253|SE CPC GMB NetEntFootball|Aspire Global
+24254|SE CPC GMB StarburstKaramba|Aspire Global
+24252|SE CPC StarburstHopa|Aspire Global
+24268|SE GreenCoffee|The regime Ltd. EUROPE
+24289|SE KundfinansRevshare|SMS Pengar Norden AB / Kundfinans
+24295|SE VerisureHemlarm|Verisure Sverige AB
+20029|SE Euroloan Revshare|ELCF Sweden AB
+24338|SE FalckVagassistansforsakringCPO|Falck Danmark A/S
+24300|SE OPRForetagslanB2BRevshare|OPR-Finance AB
+18713|SE MyLoan|Insplanet Försäkringsförmedling AB
+24472|SE RantesankarnaRevshare|Gold Oak AB
+24474|SE BotPlus365|BOA Elite
+24515|SE ZmartaBilforsakring|Freedom Rahoitus Oy
+24725|SE CompricerForsakring|Compricer AB
+24726|SE AIGforsakringFEMALE|AIG Europe Limited
+24732|SE AIGforsakringMALE|AIG Europe Limited
+24819|SE Fokuslan|Thorn Svenska AB
+24822|SE MatchCom Revshare|Meetic Group
+24856|SE Creditstar|Creditstar Sweden är en del av Creditstar Group
+24894|SE GMB ZodiacCasino|Casino Rewards
+20341|SE CompricerPrivatlan|Compricer AB
+25018|SE Verisure|Securitas Direct
+25024|SE DayPayRevshare |Finans AB
+25060|SE FlexlimitRevShare|C Finance AB
+25133|SE SwedishMethod|Hedgestone Group
+23217|SE SmokeSmart|Pro-Shopper
+23635|SE HallonketonerRevshare|The regime Oü
+25405|SE xsmoke|xsmokle
+25400|SE AcaibarRevshare|Regimen Oü Reg
+25452|SE ProtectMeRevshare|ProtectMe International AB
+25706|SE Loanstep|Savelend Sweden
+23630|SE Pengino|Firstborn Capital AB
+25766|SE EverydayPlusKreditMobile|OPR-Finance AB
+25764|SE Nordiclan|Thorn Svenska AB
+24330|SE Axo |Axo Finans AB
+25831|SE NationalGeographicDrone|Bonnier AB
+25918|SE LoanButler|Firstborn Capital AB
+25902|SE SwedishMethod [Mon-Fri]|Den Svenska Metoden
+25956|SE EuroloansCPA|ELCF Sweden AB
+25983|SE DetoxStarterPack|Formula Swiss AG
+26109|SE AXOFinansSamlaLanLosa|Axo Finans AB
+|NL Essent|Essent
+3809|NL DASRechtsbijstand|
+18550|NL Schoonenberg|
+18791|NL Davo|Davo
+18842|NL Solvari|Solvari
+18760|NL OpticalExpress|Optical Express
+18552|NL OxxioInControl|
+18759|NL LemonPowerPatch|Lemon Power Patch
+3666|NL ANWB Visa|ANWB
+|NL NHA|NHA
+18692|NL CPC Green Coffee|Green Coffee Bean Pure
+|NL NHA Zanox|NHA
+18756|NL SlimProPatch|Slim Patch Pro Acai
+3805|NL FBTO|FBTO
+18549|NL Monuta|Monuta
+18577|NL CentraalBeheer|Centraal Beheer
+18707|NL StudentMobiel|StudentMobiel
+18824|NL BEN|BEN
+|NL Essent CPA|Essent
+18572|NL KPN Zanox|
+18574|NL OHRAAutoInsurance|OHRA
+18971|NL VolgOrangeinFullHD|ad.nl
+19041|NL ANWBWegenwacht Zanox|ANWB
+18705|NL Rebel|Rebel
+19038|NL Lexa|Lexa
+19043|NL Unibet|Unibet
+18842|NL Solvari|Solvari
+19040|NL ECI Infero|ECI
+19205|NL FNVBondgenotenStudenten|FNV Bondgenoten
+19101|NL Aktiesport|Aktie Sport
+19136|NL LOI|Leidse Onderwijsinstellingen
+18992|NL Esopus|Esopus bvba
+19227|NL Tele2|Tele2
+19416|NL Zomer Stunt|Zomer Stunt
+19518|NL ConsumentenAdvies|Consumenten Advies Nederland
+18572|NL KPN Zanox|KPN
+19620|NL BrandinteroductionsSecret |Provea
+19621|NL DutchPharma DigimoMedia|Dutch Pharma
+19659|NL Stap maar over|Verlaaguwenergieverbruik.nl
+19821|NL Westwing Zanox|
+19823|NL NTI|NTI Zakelijk
+19816|NL BergmanClinics|Bergman Clinics
+19825|NL HiKPNBudgetDeal - new offer |
+19820|NL EnergieFlex - new offer|EnergieFlex
+19901|NL CPM KampeerCaravanJaarbeurs|Kampeer & Caravan Jaarbeurs 2014
+18549|NL Monuta|Monuta
+20200|NL GreenTeaSlimPatch|Wise Men Media
+20190|NL ThalysExpressRail|Thalys International
+20231|NL ClaimUwTablet|VerlaagUwEnergieverbruik.nl
+20442|NL NightoftheProms|KRO
+20220|NL EssentLead|Essent
+20298|NL BcoozAlbertHein|Bcooz
+|NL BcoozGamma|Bcooz
+20297|NL BcoozLeenBakker|Bcooz
+20299|NL ProvitalPharma|Premium Plus International AG
+20371|Man Bijt Hond Windjack|NCRV i.s.m. $$list$$
+20402|NL DutchPharmaOmega3|Dutch Pharma is enn handelsnaam van Tetrix B.V.
+20410|NL CPC FruityCasa|Imperium Network Solutions Limited
+20422|NL OHRAHealthInsurance|Delta Lloyd N.V.
+20423|NL DeltaLloyd|Delta Lloyd N.V.
+20427|NL Pietenonderzoek|Profila Data
+20435|NL HEMAZorgverzekering|HEMA B.V
+20455|NL Menzis|Menzis Groep
+20456|NL Anderzorg|Menzis Groep
+20415|NL VGZ|Coöperatie VGZ
+19227|NL Tele2|Tele2 Nederland B.V.
+20495|NL Bewuzt|Coöperatie VGZ
+20497|NL UniveHealthInsuranceA|Coöperatie Univé U.A
+20493|NL UniveHealthInsuranceB|Coöperatie Univé U.A
+20480|NL Ditzo|Ditzo
+20509|NL CPM KPNCloud|KPN B.V.
+20548|NL Zorgkiezer|ZorgKiezer.nl (DGN Finance BV)
+20546|NL Zekur|Coöperatie Univé U.A.
+20552|NL UnitedConsumers|UnitedConsumers Zorgverzekering
+20547|NL StaatsloterijerteluwdroomWinter|de Nederlandse Staatsloterij
+20522|NL HoyHoyHealthInsurance|UK BGL Group
+20568|NL ZieZo|Zilveren Kruis Achmea
+20617|NL BcoozKruidvat|Bcooz (onderdeel van) M-Valley BV
+20615|NL BcoozShell|Bcooz (onderdeel van) M-Valley BV
+20619|NL Bespaaradvies|Sendt Online Marketing BV
+20618|NL ConsumindZorg|ZorgKiezer.nl (DGN Finance B.V.)
+20667|NL CNV|CNV Vakbond
+20717|NL Genex|Starligne BE 0424.889.197
+20735|NL Lexa|Meetic SA
+20827|NL DodaregoJumbo|Dodareo (onderdeel van) Neos Telecom Ltd
+20909|NL IndependerWoon|Independer Wonen
+21006|NL Leningvisie|Leningvisie.nl B.V.
+21007|NL BespaarDirect|Besparenkan
+21002|NL VikingRevShare|Office Depot International BV
+20938|NL Hypotheek|Invest Online Financieel B.V.
+ALL|NL Dodarego|Dodareo (onderdeel van) Neos Telecom Ltd
+21126|NL iForex|iFOREX (Cyprus) Ltd
+21079|NL Weightwatchers|Weight Watchers Netherlands B.V.
+21160|NL SchoonenbergTestEenHoortoestel|Schoonenberg Hoorcomfort
+21163|NL Fiber|Fiber Nederland B.V.
+21205|NL Simyo|Simyo
+21255|NL Dela|DELA
+21273|NL QuistosKLM|Tazoki Pte Ltd
+21425|NL MakeupHoliday|Dutch Media Group BV
+21426|NL NationaalBespaarpakket|Egmont Publishing
+21418|NL Ultrabright|UltraBright Clinic is onderdeel van Premium Plus International AG
+21006|NL Leningvisie|Leningvisie.nl B.V.
+21450|NL CreditCoach|Credit Coach
+21451|NL Vitalift|Premium Plus International AG
+21452|NL ProvitalPharma|Premium Plus International AG
+|NL FalckHurtighjælp|Falck Danmark A/S
+|NL Bed&Pillow|Nationaal Bespaar Advies
+21626|Troskompas Schoonheidsbon|Troskompas
+21843|NL Oral B|MONS MANAGEMENT IT LTD
+21836|NL Thuisfitness |Thuisfitness.eu
+|NL BBQ|Profila Data
+21679|NL MediaMarkt|Playmobia
+1277|Nespresso|Mons Magament It Ltd
+22054|NL Consumind|MTVTD B.V.
+22050|NL BrandNewDayKinderrekening|Brand New Day Vermogensopbouw N.V.
+22370|NL Nivea |Mons Management IT LTD
+22477|NL Bespaar|Bespaar Advies
+|NL CPC Karamba|Karamba
+22518|NL CombiCredit|combicredit.nl
+22556|NL CreditCoach|Combicoach
+22506|NL Oxby |Oxby
+22669|NL ViabuyPrepaidMastercard|PPRO Financial Ltd. onder licentie van MasterCard International Inc.
+22693|NL Gilette|Mons Media
+22710|NL NationaleOmruilactie|Amsterdams MuntKantoor
+22763|NL ABNAmro|ABN Amro
+22719|NL Besparenkan|Besparenkan
+|NL MusashiAlbertHejin|Genji NV
+23245|NL TenaLady|SCA Hygiene Products Zeist B.V.
+23259|NL X5Scheermesjes|Courlux International SA
+23260|NL MikroGids|voor Mikro Gids it’s Bindinc
+23261|NL EnergieDirect|EnergieDirect.nl
+23289|NL Purina|Nestlé Nederland
+23299|NL ZorgverzekeringsvergelijkerRevShare|Komparu
+23297|NL Leningvisie|Leningvisie.nl
+23210|NL PNOZorg|PNOZorg
+23561|NL NS|Mons Management LTD
+23570|NL Cashper |Cashper
+|NL PG1EuroPerWeek2016Actie|De Persgroep
+|NL KredietDesk|KredietDesk B.V.
+|NL Crosslend|Crosslend GmbH
+23914|NL Intereno|Intereno B.V.
+|NL Engie|Engie
+23972|NL LabrokesCasino|Ladbrokes
+23976|NL Hypotheek |Wuzzon
+23982|NL Geldshop|SRM
+23984|NL Leningvisie|SRM
+|NL LeenOkay|Financieel Attent
+|NL LenteKrediet|Financieel Attent
+24058|NL Markets|trade.com
+24133|NL VanBruggen|Van Bruggen
+24137|NL Detox|DetoxFormule
+24328|NL ConsumentenAdviesNederland|Consumenten Advies Nederland
+24329|NL KozijnOffertes|GetYourQuote 2016
+23616|NL ConsumindLoan|MTVTD B.V.
+24537|NL SloopdeCrisis|Mindgrind BV
+24848|NL Telegraf|De Telegraaf
+24893|NL GMB ZodiacCasino|Casino Rewards
+24582|NL Viabuy|financeAds
+25209|NL Koopkracht|Koopkracht.nl
+25512|NL AllSafeWintervoordee|ALLSAFE Mini Opslag
+25657|NL Krantenverkiezing|Kranten.nl
+25738|NL Telegraaf10Weken30euro|TMG Landelijke Media B.V.
+24848|NL TelegraafVerkiezingsabonnement|TMG Landelijke Media B.V.
+26080|NL RDEBesparenKan|Sendt Online Marketing B.V.
+19885|FI FreedomRahoitus|Freedom Rahoitus Oy
+19891|FI HalensYksityislaina |Halens Yksityislaina / TF Bank AB
+19884|FI MaxiFlex|Sana Pharma AS/Norvital
+19888|FI TeleFinland |TeliaSonera Finland Oy
+19889|FI Vihreäkahvi|Xellim / DBA Green Coffee Fresh
+19912|FI MeNaiset |Sanoma Media Finland Oy
+19911|FI Match.com|Match.com
+19947|FI VihreaKahviPainonhallintakonsepti|Vertal Oy
+19977|FI Ostosraha|Ostosraha-OPR Oy
+19962|FI TonoClassics|PROVEA
+20061|FI FellowFinance|Fellow Finance Oy
+20083|FI Inkclub|inkClub
+20132|FI KodinKuvalehtiErikoiskampanja|Sanoma Media Finland
+20133|FI SaunalahtiKampanja|Saunalahti
+20178|FI HalinoLainakampanja|Halino / TF Bank AB
+20161|FI ProElinvoimaDVitamiini|Pro Elinvoima Oy
+20219|FI Melatoniini|Vertal Oy
+20244|FI TrustBuddy|Trustbuddy AB
+20252|FI SuuriJoulukirja|Bonnier Publications International AS
+20253|FI Queenlash|Xellim Oü
+20301|FI Talvisota|Suomen Moneta
+20386|FI ElleLehti|Aller Media Oy
+20483|FI TieteenKuvalehtiKaukoOhjattava|Bonnier Publications International AS
+20491|FI DAgeCream|Pro-shopper OÜ
+20506|FI ST1Visa |Ikano Bank AB
+20539|FI ErikoisSanomaJouluhyrra|Sanoma Pro
+20557|FI Credit24|MCB Finance Finland Oy
+20623|FI CredentoLaina|TF Bank AB
+20690|FI KuntoPlusActiveLife|Bonnier Publications International AS
+20733|FI ProShaveInfinite|Pro-shopper OÜ
+20719|FI GreenCoffeeDiet|Vertal Oy
+20831|FI PunainenRisti|Suomen Punainen Risti
+20885|FI TestoMax|Norvital AS
+20219|FI LumoneMelatoniini|Lumone Ltd
+21144|FI Vauva|Sanoma Media Finland Oy
+21165|FI ArkadiaRahoitus|Arkadia Rahoitus-Draivi Media Oy
+21211|FI Vivus|4Finance Oy
+21256|FI Yleislaina|AA-Yleislaina Oy
+21296|FI Etua|Etua Oy
+21336|FI NationalGeographic|Bonnier Publications International AS
+21242|FI RisicumRevshare|DFC Nordic Oy
+21472|FI SanomatAitienpaiva|Sanoma Media Finland Oy
+21505|FI Hampaidenvalkaisu|Xellim LTD
+21498|FI Vadelmaketoni|Xellim Oü
+21526|FI Zmarta|Freedom Rahoitus Oy
+21718|FI Rahoitus24|Draivi Media Oy
+21717|FI FellowFinance|Fellow Finance Oy
+21771|FI BigBank|Bigbank AS Suomen sivuliike
+22443|FI Aku Ankka Euroads|Sanoma Media Finland Oy
+22793|FI ArtoFlexKampanjaNaisille|Pro-Shopper OÜ
+23013|FI FerratumCPO |FERRATUM FINLAND OY
+23009|FI Firkloveren |Apilanlehti Oy
+23095|FI Rahalaitos |Rahalaitos.fi / Eone Oy
+23385|FI VitaeLablOmegaPro|VitaeLab
+23462|FI Nopsalaina|BIGBANK AS Suomen sivuliike
+23493|FI DNATV|DNA Oy
+|FI SanomaYstavanpaiva|Sanoma Media Finland Oy
+|FI ST1Visa |ST1
+|FI Fixura|Fixura Ab Oy
+|FI Yhdistalainoja|Yhdistalainoja.fi
+|FI Lainaa24|Lainaa24.fi
+|FI FokusAutoBild|Fokus Media Finland Oy
+|FI Provexin|Norvital AS
+|FI DVitamin|Suomen Terveysravinto Oy
+|FI Suomi100Vuotta|Oy Nordic Moneta Ab/Suomen Moneta
+|FI RisicumRevShare|DFC Nordic Oy
+|FI OKMoney|DFC Nordic Oy
+24176|FI CPC GreenCoffee|Green Coffee Fresh
+24199|FI Lainaa24fi|Lainaa24.fi
+24209|FI Rio2016|Nordic Moneta Ltd / Finland Moneta
+24271|FI SuuriKasityolehti|Sanoma Media Finland Oy
+24270|FI Yteislaina|TF Bank AB
+20002|FI KonjakSuperkuitu|Regimen Oü
+24269|FI Apilanlehti|Apilanlehti Oy
+24299|FI Limiitti|Tact Finance Oyj
+24346|FI RaspberryTotalRevshare|Exposition Oü
+24367|FI Omega1000Revshare|Regimen Oü
+23739|FI Yhdistalainoja|Lendo Oy
+24383|FI ArtoFlex |Pro-shopper OÜ
+23549|FI Nettirahoitus Revshare|Draivi Media Oy
+24419|FI AasaYksityislaina|Asa Ltd
+24435|Freedom Rahoitus Oy|Freedom Rahoitus Oy
+24449|FI Vertaalainoja|Freedom Rahoitus Oy
+24506|FI Luottovertaaj|Lendo Oy
+24511|FI Fleksiluotto|4finance Oy
+19977|FI OstosrahaRevshare|Ostosraha-OPR Oy
+24609|FI ETUAKulutusluotto|Etua Oy
+24674|FI RisicumRevshare|DFC Nordic Oy
+24705|FI MelatonPlusRevshare|
+24779|FI VitaelifeMelaton|VitaeLife Pharma
+24790|FI Simplia500-40000|Simplia.fi
+24779|FI VitaelifeMelaton|VitaeLife Pharma
+24705|FI MelatonPlusRevshare|VitaeLife Pharma
+24878|FI HyvaTerveys|Sanoma Media Finland Oy
+24877|FI CashBuddy|Cashbuddy Oy
+24900|FI BuusteriRevshare|Buusteri Oy
+24919|FI FortumSahkosopimus|Fortum Keilaniemi
+24990|FI Haenyt|Holla Online Oy
+25001|FI Zmarta|ZMARTA SUOMI
+23739|FI Yhdistalainoja|Yhdistälainoja.fi:n
+19885|FI FreedomRahoitus|Freedom Rahoitus Oy
+25005|FI OstosrahaRevShare|Ostostaha
+25179|FI Lainaaverkossa|Firstborn Ltd
+19889|FI Vihreakahvi Revshare|Regimen Oü Reg
+25444|FI Rahoitu|Oy Salus Group Ab
+24919|FI FortumSahkosopimus|Fortum Markets
+25632|FI Lainalupaus|Lainalupaus.fi
+25667|FI SiimplLaina |Lendo Oy
+25668|FI SiimplLaina |Lendo Oy
+25695|FI Creditstar|Creditstar Finland Oy
+22437|FI Lendo|Lendo Oy
+25763|FI VapaaKiertoOmega3|Vesterålens Naturprodukter Oy
+25775|FI NordCreditKuluton|NORDCREDIT / Lainasto Oy
+25782|FI NordicFinance|Freedom Rahoitus Oy
+25802|FI Simplia|Simplia.fi
+25830|FI NordCredit|NORDCREDIT / Lainasto Oy
+25914|FI Smartlainat.fi|SmartResponse A/S
+19283|DK LeasyLanLavrenteLan|L'easy
+19285|DK Kliklan|Kliklån
+19286|DK VisaIkanoBank|Ikano Bank
+19287|DK BTNewspaper|BT
+19276|DK JydskTagteknik|Jydsk Tagteknik
+19424|DK KristeligtDagblad|Kristeligt Dagblad
+19432|DK InkClub|InkClub
+19565|DK 40PlusDating|40plus.dk v/Cyberfusion ApS
+19566|DK Findforsikring|Findforsikring ApS
+19567|DK OisterVIP|OiSTER (Hi3G Denmark ApS)
+19568|DK Sparxpres|SPARXPRES
+19569|DK Goodiebox|Goodiebox ApS
+19572|DK Berlingske|Berlingske Media A/S
+19834|DK DERQuicklan|D:E:R A/S
+19815|DK LeasyLanEasyLan|LEASY A/S
+19817|DK ASE|ASE
+19818|DK JydskTagteknikBeny|Jydsk Tagteknik A/S
+20226|DK Caremaker|Om CAREMAKER
+20331|DK LeasyLavrenteLan|LEASY A/S
+20389|DK LeasyMinilan|L’EASY Minilån (3C RETAIL A/S)
+19819|DK Ferratum|Ferratum Denmark ApS
+20482|DK JydskEnergitjek|JYDSK Tagteknik A/S
+20556|DK Spirosan|Biovita AS
+20560|DK KvikautomatenQuickLoan|Ferratum Denmark
+20626|DK BookenFiat|Fiat
+20703|DK iBobDK|iBob A/S
+19276|DK JydskTagteknik|Jydsk Tagteknik A/S
+20337|DK GreenCoffee|Biovita AS
+20852|DK MikroKredit|Mikrokredit ApS (CVR-nr.: 35526064)
+20853|DK Fullrate|Bisnode Danmark A/S
+20870|DK Robotlan|Robotlån a/s · CVR 21 54 89 95
+21143|DK VindEtArsForbrugAfDagligvarer|Brugerpanelet.dk A/S
+21166|DK Kvikfinans|Kvikfinans
+21210|DK DanskFilmskat|Nordisk Film A/S
+21209|DK Klasselotteriet|A/S (Klasselotteriet)
+21249|DK CPC WeissenhauserStrand|Weissenhäuser Strand GmbH & Co. KG
+21332|DK IFormActiveLifeTracker|Bonnier Publications International AS
+21331|DK HotLan|Ekspres Bank A/S
+21337|DK HistorieBluetoothSet|Bonnier Publications International AS
+21419|DK TDC Competition|Infodirekt A/S
+21427|DK AlfaLan|AlfaLån A/S
+21506|DK Alfalaan|AlfaLån A/S
+21532|DK FalckHurtighjaelp|Falck Danmark A/S
+22078|DK DERTryglan|D|E|R Privat Finans
+22079|DK DERPauselan|D|E|R Privat Finans
+22077|DK DERPrivatlanPlus|D|E|R Privat Finans
+22283|DK AllerVeninde|Aller Media A/S
+22792|DK FindforsikringHusforsikring|Findforsikring ApS
+22788|DK SeasNve|SEAS-NVE Holding A/S
+20482|DK JydskTagteknikGratisEnergitjek|Jydsk Tagteknik A/S
+22848|DK DanskHoreCenter|Dansk HøreCenter
+22953|DK CPC WeissenhauserStrandMiniferie2016|Weissenhäuser Strand GmbH & Co. KG
+22958|DK HotlaanLanOgFaBedreRad|Ekspres Bank A/S.
+22957|DK AlfalannLanOpTil75k|Ekspres Bank A/S
+23012|DK GjensidigeForsikring|Gjensidige Forsikring ASA
+23120|DK Doulac Daglig|Cell Biotech Co., Ltd.
+23269|DK TjenestetorvetBoligalarmer |Tjenestetorvet ApS
+23447|DK Xsmoke|XSmoke® by MailTrading GmbH
+23492|DK DanskHoreCenter|Dansk HøreCenter
+|DK OkBenzin|Benzin
+|DK Duolac|Duolac
+|DK Gjensidige|
+|DK ArcadiaFinans|Arcadia Finans
+|DK Santander|Santander Consumer Bank
+|DK CapaCredit|CapaCredit
+|DK BankNorwegian|Bank Norwegian
+23860|DK G4SSecurityTMLanding|G4S Security Services A/S
+|DK Goodiebox|Goodiebox ApS
+23985|DK SeleneFinans|Selene Finans ApS, Låneformidler for Basisbank A/S
+24070|DK Falck|Falck Danmark A/S
+24077|DK Flipp|Egmont Publishing A/S
+24442|DK ArhusCharter|Århus Charter
+24104|DK Nordican|3C RETAIL A/S - herefter L’EASY A/S
+24448|DK Spirosan|Biovita AS
+19819|DK FerratumMikroloan|Ferratum Denmark ApS
+24494|DK FerratumKredit|Ferratum Denmark ApS
+24498|DK TjenestetorvetVarmepumper|Tjenestetorget ApS
+23269|DK TjenestetorvetBoligalarmer|Tjenestetorget ApS
+24512|DK Forsikringstjekker[Mon-Fri]|Bevisible Media GmbH
+24706|DK Mofibo|Mofibo Books ApS
+24669|DK Flyhjalp|Flyhjælp ApS
+24823|DK LeasyProduktAcer|L’EASY A/S
+24824|DK LeasyProduktPhillips|L’EASY A/S
+24832|DK GjensidigeForsikring|Dansk Filial af Gjensidige Forsikring Asa, Norge
+24868|DK EKDKLanDanmarks|
+24867|DK TryglanLanOpTil50000|
+24978|DK Verisure|
+25027|DK DanskHoreCenter|Danish Hearing Center
+25059|DK CBBMobil|CBB Mobil
+23990|DK Goodiebox |GOODIEBOX
+25081|DK ModusFinans|3C Retail A/S
+23492|DK DanskHoreCenter|Danish Hearing Center
+25471|DK ArbejdHjemmefra|SC Administration
+25472|DK GodErnaering|SC Administration
+25510|DK DigitalLektiehjaelp|Blue Energy A/S
+25530|DK Monera|Monera ApS
+25531|DK NordiskLan|Basisbank A/S
+25659|DK Smartelaan.dk|Basisbank A/S
+25686|DK DanishMethod [Mon-Fri]|BOA Elite
+25729|DK Profillan|Spar Nord Bank A/S
+25795|DK Gjensidige |Gjensidige Group
+25832|DK PrimoToursGeneral|Primo Tours A/S
+25837|DK PrimoToursMallorca|Primo Tours A/S
+25838|DK PrimoToursKreta|Primo Tours A/S
+25867|DK TurboLan|Turbolån Danmark A/S
+25920|DK 247Lan|24/7 Lån ApS
+26070|DK G4SSecurity|G4S SECURITY SERVICES A/S
+26097 & 26098|DK FoniksPrivatlan|D:E:R A/S
