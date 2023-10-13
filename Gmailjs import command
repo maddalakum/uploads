@@ -7,3 +7,9 @@ document.getElementsByTagName('body')[0].appendChild(gmsrc);
 
 var gmail = Gmail();
 var name = gmail.get.user_email();
+
+
+
+var TDATA=gmail.get.selected_emails_data();
+TDATA[0].threads[TDATA[0].thread_id].from_email
+TDATA[0].threads[TDATA[0].thread_id].to.join(',')
